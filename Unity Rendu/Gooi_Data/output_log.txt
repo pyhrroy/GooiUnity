@@ -1,0 +1,302 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M     (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+    Driver:   10.18.10.3574
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Jean\Desktop\Gooi_Jean_Nicolas\Unity Rendu\Gooi_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.865617 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2104 -> priority: 1 
+  Thread -> id: c88 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.617421 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 395.
+Total: 10.021861 ms (FindLiveObjects: 0.022990 ms CreateObjectMapping: 0.018064 ms MarkObjects: 0.138354 ms  DeleteObjects: 9.841631 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.378524 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 406.
+Total: 7.754410 ms (FindLiveObjects: 0.020116 ms CreateObjectMapping: 0.011905 ms MarkObjects: 0.139585 ms  DeleteObjects: 7.582391 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'Objet') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Objet') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Noeud tore001') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Noeud tore001') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Objet') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Noeud tore001') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.387556 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 502.
+Total: 5.743962 ms (FindLiveObjects: 0.025453 ms CreateObjectMapping: 0.015190 ms MarkObjects: 0.161755 ms  DeleteObjects: 5.540741 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.456117 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 337.
+Total: 6.629512 ms (FindLiveObjects: 0.016832 ms CreateObjectMapping: 0.013137 ms MarkObjects: 0.166682 ms  DeleteObjects: 6.432449 ms)
+
